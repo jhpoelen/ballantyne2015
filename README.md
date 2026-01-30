@@ -1,3 +1,7 @@
+⚠️
+this repository is archived. Please use https://github.com/zedomel/ballantyne2015 instead.
+⚠️
+
 [![Build Status](https://travis-ci.com/ballantyne2015.svg)](https://travis-ci.com/ballantyne2015) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:ballantyne2015)](http://globalbioticinteractions.org/?accordingTo=globi:ballantyne2015)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
